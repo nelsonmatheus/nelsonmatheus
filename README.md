@@ -4,7 +4,7 @@ Tenho 31 anos, sou empreendedor e desenvolvedor focado em criar soluções digit
 
 ## 🚀 Sobre Mim
 - 👨‍💻 **Digital Marketer**: Gestor de tráfego e produtor de infoprodutos na [Clica Marketing](https://clicamarketing.shop/).
-- 🤟 **Libras**: Fundador do **Instituto Expressão do Silêncio**, promovendo a inclusão através da Língua Brasileira de Sinais.
+- 🤟 **Libras**: Gesto de Tráfego no **Instituto Expressão do Silêncio**, promovendo a inclusão através da Língua Brasileira de Sinais.
 - 🎥 **YouTube**: Criador de conteúdo infantil no canal **Cantando com Jesus**.
 - 👨‍👩‍👧‍👦 **Família**: Marido da Ana Paula e pai orgulhoso da Lara e do Calleb.
 
@@ -20,7 +20,7 @@ Tenho 31 anos, sou empreendedor e desenvolvedor focado em criar soluções digit
 
 ---
 
-## 📊 Estatísticas (Corrigidas)
+## 📊 Minhas Estatísticas
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelsonmatheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonmatheus&layout=compact&langs_count=6&theme=tokyonight"/>
