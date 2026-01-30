@@ -20,15 +20,10 @@ Tenho 31 anos, sou empreendedor e desenvolvedor focado em criar soluções digit
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 Minhas Estatísticas 
 <p align="center">
-  <img src="https://vercel.com/nelsonmatheus-projects/github-readme-streak-stats/H42R7eBakN4mapTx2Vi1p1M84bJa" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-lilac-seven.vercel.app?user=nelsonmatheus&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonmatheus&layout=compact&langs_count=6&theme=dark" alt="Top Langs" />
-</p>
-
 
 ---
 
